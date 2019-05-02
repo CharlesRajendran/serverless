@@ -58,3 +58,5 @@ Event Object
 AWS Resources
   - If we want to use other aws resources, such as using a s3 bucket, adding a rds database and etc.
 
+Console Logging
+  - `sls logs -f myFunctionName -t`
